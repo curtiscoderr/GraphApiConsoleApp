@@ -1,8 +1,8 @@
 # GraphApiConsoleApp
+------------------------------------------------------------------------------------------------------------------------------------------
 Simple example of how to use Graph API with an AD registered application.
-------------------------------------------------------------------------------------------------------------------------------------------
 <https://docs.microsoft.com/en-us/azure/active-directory-b2c/microsoft-graph-get-started?tabs=app-reg-ga#register-management-application> 
-------------------------------------------------------------------------------------------------------------------------------------------
+
 Register management application
 -------------------------------
 
