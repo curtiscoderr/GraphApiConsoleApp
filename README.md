@@ -17,5 +17,3 @@ To register your application and add the app's registration information to your 
 9.  Under Manage, select API Permissions > Add a permission. Select Microsoft Graph.
 10. Select Application permissions.
 11. Under the User node, select User.Read.All, and then select Add permissions.
-
-#### [](https://docs.microsoft.com/en-us/azure/active-directory/develop/console-app-quickstart?pivots=devlang-dotnet-core#step-2-download-your-visual-studio-project)Step 2: Download your Visual Studio project
