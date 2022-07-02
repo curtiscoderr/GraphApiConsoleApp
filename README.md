@@ -16,4 +16,4 @@ To register your application and add the app's registration information to your 
 8.  Under Client secrets, select New client secret, enter a name, and then select Add. Record the secret value in a safe location for use in a later step.
 9.  Under Manage, select API Permissions > Add a permission. Select Microsoft Graph.
 10. Select Application permissions.
-11. Under the User node, select User.Read.All, and then select Add permissions.
+11. Under the User node, select User.ReadWrite.All, and then select Add permissions.
